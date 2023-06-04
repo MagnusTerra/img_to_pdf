@@ -1,0 +1,6 @@
+deprecation==2.1.0
+img2pdf==0.4.4
+lxml==4.9.2
+packaging==23.1
+pikepdf==7.2.0
+Pillow==9.5.0
